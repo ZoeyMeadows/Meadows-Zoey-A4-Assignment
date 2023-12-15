@@ -1,0 +1,15 @@
+Idea: Simple flappy bird clone with 10 pipes.
+
+Level will be prebuilt for efficiency.
+
+Working menu
+
+Pipes 
+
+Death screen
+
+Simple jump and gravity.
+
+Later thoughts:
+
+After finding a sprite sheet for flappy bird and general stuff online, I'm going to go for a more traditional endless one with a high score.
